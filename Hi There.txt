@@ -1,1 +1,2 @@
 Hi everyone. Here is my first document in Git. Cheers to learning!
+Am I in the branch?
